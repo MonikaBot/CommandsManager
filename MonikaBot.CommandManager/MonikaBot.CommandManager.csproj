@@ -19,7 +19,7 @@
     <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
     <Summary>Command manager component for Monika Bot.</Summary>
     <Title>MonikaBot.CommandManager</Title>
-    <Description>$description$</Description>
+    <Description>Command Manager for Monika Bot, a required dependency for building packages for her.</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
